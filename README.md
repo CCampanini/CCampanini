@@ -2,18 +2,16 @@
 
 ## **BACKGROUND**
 - from Italy, but I've lived Spain, Belgium, Portugal, and Japan
-- marine biologist :lab_coat:
+- marine biologist :lab_coat: with a specialization in Applied ecology and Marine Ecosystem Restoration
 - scientific diver :diving_mask:
 - coding enthusiast :computer:
 - movie lover :movie_camera:
 
-P.S. I just finished the *International Master of Science in Marine Biological Resources (IMBRSea)* with a specialization in Applied ecology and Marine Ecosystem Restoration. 
+## **PRESENT** : coral reef monitoring in Japan
 
-## **PRESENT**
+Intern in the Molecular Invertebrates Systematics and Ecology (MISE) lab at the University of the Ryukyus, Okinawa, Japan :jp:.
 
-I am an intern in the Molecular Invertebrates Systematics and Ecology (MISE) lab at the University of the Ryukyus, Okinawa, Japan :jp:.
-
-I am working on a project on **coral reef monitoring and impact assessment** combining observer-based techniques and environmental DNA in Okinawa (Japan) :national_park:. 
+Working on a project on **coral reef monitoring and impact assessment** combining observer-based techniques and environmental DNA in Okinawa (Japan) :national_park:. 
 
 Repo with preliminary code from **multi-taxa benthic survey** in Okinawa >> [BenthicReefMonitoring2022](https://github.com/CCampanini/BenthicReefMonitoring2022)
 
