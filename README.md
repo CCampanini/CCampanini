@@ -7,7 +7,7 @@
 - coding enthusiast :computer:
 - movie lover :movie_camera:
 
-## **PRESENT** : coral reef monitoring in Japan
+## **PRESENT** : coral reef monitoring in Japan with eDNA
 
 Intern in the Molecular Invertebrates Systematics and Ecology (MISE) lab at the University of the Ryukyus, Okinawa, Japan :jp:.
 
