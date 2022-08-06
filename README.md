@@ -1,7 +1,7 @@
 ### Hi! 
 
 ## **BACKGROUND**
-- from Italy, but I've lived Spain, Belgium, Portugal, and Japan
+- from Italy, but I lived Spain, Belgium, Portugal, and Japan
 - marine biologist :lab_coat: with a specialization in Applied ecology and Marine Ecosystem Restoration
 - scientific diver :diving_mask:
 - coding enthusiast :computer:
