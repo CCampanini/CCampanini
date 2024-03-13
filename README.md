@@ -1,11 +1,12 @@
 ### Hi! 
 
 ## FIELDS OF INTERESTS 
-#mesophotic #coralreef #restoration #communityEcology #marineEcology #eDNA
+#mesophotic #coralReef #restoration #communityEcology #marineEcology #eDNA
 
-Currently developing my PhD project on mesophotic ecosystems.
-![Immagine WhatsApp 2024-01-16 ore 11 06 10_f9956479 - Copy](https://github.com/CCampanini/CCampanini/assets/62822004/bc055c8c-6d99-4a5c-84fd-43581e19567b)
+## CURRENT POSITION
+Currently developing my PhD project on mesophotic ecosystems within the Marine Zoology Lab under the supervision of Prof. Carlo Cerrano
 
+<img src="https://github.com/CCampanini/CCampanini/assets/62822004/bc055c8c-6d99-4a5c-84fd-43581e19567b" width="300">
 
 
 ## **BACKGROUND**
@@ -15,5 +16,5 @@ Currently developing my PhD project on mesophotic ecosystems.
 - coding enthusiast :computer:
 - movie lover :movie_camera:
 
+<img src="/285828246_691197322171356_5349554283590627471_n.png" width="300">
 
-![This is an image](/285828246_691197322171356_5349554283590627471_n.png)
