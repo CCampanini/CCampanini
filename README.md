@@ -6,7 +6,7 @@
 #mesophotic #coralReef #restoration #communityEcology #marineEcology #eDNA
 
 ## CURRENT POSITION
-Currently developing my PhD project on mesophotic ecosystems within the Marine Zoology Lab at Università Politecnica delle Marche (UNIVPM) under the supervision of Prof. Carlo Cerrano
+Currently developing my PhD project on upper mesophotic coralligenous communities within the Marine Zoology Lab at Università Politecnica delle Marche (UNIVPM) under the supervision of Prof. Carlo Cerrano
 
 ## **BACKGROUND**
 - from Italy, but I lived Spain, Belgium, Portugal, and Japan
